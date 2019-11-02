@@ -1,4 +1,4 @@
-# ETL-group
+# ETL
 Extract - Transform - Load 
 Summary: For this project we aimed to take a large music data base in the form of a csv (gathered from https://www.kaggle.com/edumucelli/spotifys-worldwide-daily-song-ranking) which has the top 200 songs accross the country captured for every day of 2017 and 2018. It captures the chart position of the song, track name, artist name, number of streams, the spotify url, date of the captured data, and the country code. There was some additional data that we wanted to add to this data base. This missing data includes the countries of cooresponding country codes and the genre of each song.
 
